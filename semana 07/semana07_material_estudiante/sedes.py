@@ -4,7 +4,7 @@ Las primeras seis proceden del caso anterior; las últimas cuatro amplían el
 escenario de práctica. Mantenga los registros sin cambios durante la actividad.
 """
 
-sedes = [
+emprendimientos = [
     {
         "nombre": "Soda San Pedro",
         "provincia": "San Jose",
