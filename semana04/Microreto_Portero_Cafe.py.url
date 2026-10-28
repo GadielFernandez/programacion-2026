@@ -1,0 +1,4 @@
+print(hola mundo)
+
+nombre = input("¿cómo te llamas? ")
+print("Bienvenido a python," nombre)
