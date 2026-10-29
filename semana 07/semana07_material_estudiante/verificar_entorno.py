@@ -1,6 +1,5 @@
 """Primera ejecución en Visual Studio Code: comprobar Python y la terminal."""
 
-# sys solo permite mostrar qué Python ejecutó este archivo.
 # Su uso se explicará con detalle cuando se estudien los módulos.
 import sys
 
