@@ -1,0 +1,36 @@
+[
+  {
+    "codigo": "REG-001",
+    "fecha": "2026-11-04",
+    "sede": "Sede Norte",
+    "hospital": "Hospital del Valle",
+    "paciente_id": "PAC-001",
+    "paciente_nombre": "Sofía Mora Acuña",
+    "paciente_cedula": "FIC-000001",
+    "grupo_edad": "40-59",
+    "diagnostico": "Hipertensión arterial",
+    "canal": "ventanilla",
+    "estado": "pendiente",
+    "medicamentos": [
+      "Acetaminofen",
+      "Ibuprofeno"
+    ]
+  },
+  {
+    "codigo": "REG-002",
+    "fecha": "2026-11-04",
+    "sede": "Sede Central",
+    "hospital": "Hospital Central",
+    "paciente_id": "PAC-002",
+    "paciente_nombre": "Diego Araya Salazar",
+    "paciente_cedula": "FIC-000002",
+    "grupo_edad": "18-39",
+    "diagnostico": "Gastritis",
+    "canal": "formulario",
+    "estado": "revisado",
+    "medicamentos": [
+      " paracetamol ",
+      "losartán"
+    ]
+  }
+]
