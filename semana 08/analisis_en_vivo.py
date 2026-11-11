@@ -1,10 +1,7 @@
 """
 SEMANA 8 - EL ARCHIVO ESTA VIVO
 Analisis de datos de una red hospitalaria.
-
-Universidad Castro Carazo
 """
-
 from fuente import cargar_datos
 
 # ------------------------------------------------
