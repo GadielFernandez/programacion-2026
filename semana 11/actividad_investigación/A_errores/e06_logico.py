@@ -12,6 +12,6 @@ SALIDA ESPERADA
 notas = [70, 55, 90, 70, 40]
 aprobados = 0
 for nota in notas:
-    if nota > 70:
+    if nota >= 70:
         aprobados += 1
 print("Aprobados:", aprobados)

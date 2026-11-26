@@ -11,6 +11,7 @@ SALIDA ESPERADA
 """
 def calcular_promedio(a, b, c):
     promedio = (a + b + c) / 3
+    return promedio
 
 
 resultado = calcular_promedio(80, 90, 70)

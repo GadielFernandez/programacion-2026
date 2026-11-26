@@ -17,5 +17,5 @@ notas = pd.DataFrame({
     "asistencia": [90, 70, 95, 85],
 })
 # Estudiantes con promedio mayor a 70 Y asistencia mayor a 80
-filtro = notas["promedio"] > 70 & notas["asistencia"] > 80
+filtro = (notas["promedio"] > 70) & (notas["asistencia"] > 80)
 print("Cantidad:", len(notas[filtro]))
