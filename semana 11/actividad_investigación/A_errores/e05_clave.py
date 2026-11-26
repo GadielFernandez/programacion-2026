@@ -11,5 +11,5 @@ SALIDA ESPERADA
     Grupo: B
 """
 estudiante = {"nombre": "Luis", "edad": 18, "grupo": "B"}
-print("Nombre:", estudiante["nombre"])
-print("Grupo:", estudiante["Grupo"])
+print(f"Nombre:", estudiante["nombre"])
+print("Grupo:", estudiante["grupo"])

@@ -12,4 +12,4 @@ SALIDA ESPERADA
 precio = 1500
 cantidad = 3
 total = precio * cantidad
-print("Total:", totl)
+print("Total:", total)

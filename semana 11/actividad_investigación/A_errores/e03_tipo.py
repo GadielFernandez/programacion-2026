@@ -11,4 +11,4 @@ SALIDA ESPERADA
 """
 nombre = "Ana"
 edad = 17
-print("Hola " + nombre + ", tienes " + edad + " años")
+print("Hola " + nombre + ", tienes " + str(edad) + " años")

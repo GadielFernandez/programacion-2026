@@ -11,6 +11,6 @@ SALIDA ESPERADA
 """
 notas = [80, 90, 70]
 total = 0
-for i in range(len(notas) + 1):
+for i in range(len(notas)):
     total += notas[i]
 print("Promedio:", total / len(notas))
